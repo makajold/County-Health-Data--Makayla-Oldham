@@ -21,5 +21,5 @@ Provided by Prof. Steven Gotzler
 >The data created during the visualization process had to be slightly altered. The original subset can be found in the repository. 
 ![Data-Visualization](https://github.com/makajold/County-Health-Data--Makayla-Oldham/assets/167785160/f1a87cc3-42a0-46e1-b154-e982d3525864)
 
-# Teen Births In Alaska Counties 2014-2015
+
 

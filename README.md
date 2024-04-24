@@ -11,7 +11,7 @@ This repository was created for Prof. Steven Gotzler's English 105 Class
 - This data could prove useful to communities to help identify issues and take preventative measures.
 ------
 # Where is this data from? 
-Good ol' Gotzler 
+Provided by Prof. Steven Gotzler 
 ------
 # What could this data be used for?
 - County Public Health Data could be used by local or government agencies to make better informed decisions as well as provide the appropriate resources and education to communities that would benefit most.
